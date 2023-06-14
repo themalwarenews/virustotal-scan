@@ -3,7 +3,7 @@ VTScan is a command-line tool leveraging the VirusTotal API for scanning URLs. I
 
 ## Installation
 
-Install HeaderInjection
+Install 
 
 ```bash
   git clone https://github.com/themalwarenews/virustotal-scan
