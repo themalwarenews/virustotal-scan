@@ -17,6 +17,13 @@ Install HeaderInjection
  ### Sample 
 ![image](https://github.com/themalwarenews/virustotal-scan/assets/100226024/303d26a3-bd04-48c4-bc75-c1908f374489)
 
+
+Note : You might get an error if your API limit exceeded.
+
+```
+Will keep updating additional features to this
+```
+
 Feel free to notify us for any errors :slightly_smiling_face:
   
   Follow us on :
